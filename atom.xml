@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GsAkun的博客</title>
+  
+  <subtitle>拥抱云原生</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://gsakun.github.io/"/>
+  <updated>2020-04-16T09:37:27.306Z</updated>
+  <id>https://gsakun.github.io/</id>
+  
+  <author>
+    <name>gsakun</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://gsakun.github.io/2020/04/16/keycloak-bu-shu-yi-ji-pei-zhi-kubernetes/"/>
+    <id>https://gsakun.github.io/2020/04/16/keycloak-bu-shu-yi-ji-pei-zhi-kubernetes/</id>
+    <published>2020-04-16T09:36:45.223Z</published>
+    <updated>2020-04-16T09:37:27.306Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;一-KeyCloak部署&quot;&gt;&lt;a href=&quot;#一-KeyCloak部署&quot; class=&quot;headerlink&quot; title=&quot;一 KeyCloak部署&quot;&gt;&lt;/a&gt;一 KeyCloak部署&lt;/h1&gt;&lt;h2 id=&quot;下载并运行&quot;&gt;&lt;a href=&quot;#下载并运行&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
